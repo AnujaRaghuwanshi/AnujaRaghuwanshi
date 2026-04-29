@@ -6,14 +6,25 @@ I am a passionate software developer and cybersecurity enthusiast with a strong 
 ---
 
 ## 🚀 What am I currently working on?
-I am currently working on projects involving Generative AI, cybersecurity, and automation. My focus is on building practical tools for social engineering simulation, red teaming, and AI-powered security systems.
+I work at the intersection of Cybersecurity, Artificial Intelligence, and Software Engineering, exploring how AI can enhance security systems and how security principles can make AI systems more robust and trustworthy.
 
-I am always exploring new technologies to improve my skills and build impactful solutions.
+I am particularly interested in bridging cybersecurity and AI by building intelligent security automation systems, detection pipelines, and Generative AI-driven simulation tools for threat modeling and red teaming.
+
+Alongside this, I am also passionate about backend development and software engineering, where I focus on designing scalable systems and APIs.
+
+My core interests include:
+
+Cybersecurity & AI integration for intelligent threat detection and simulation
+Backend software development and system design
+Python programming and automation engineering
+Building data-driven security and operational workflows
+Generative AI applications in security and simulation environments
+
 
 ---
 
 ## 🎓 Education
-I am pursuing a degree in Computer Science / Software Engineering, where I have built a strong foundation in programming, system design, and cybersecurity principles.
+I have completed a Master’s in Computer Science with a focus on IT Security, and I am currently pursuing a Master’s in Artificial Intelligence in Germany, deepening my expertise in AI systems and their real-world applications.
 
 ---
 
